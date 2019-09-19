@@ -3,8 +3,5 @@ Editando um arquivo que já está no repositório
 Modificando
 Adicionando uma nova linha
 
-<<<<<<< HEAD
 Adicionando uma linha para gerar um conflito
-=======
 Uma modificação diferente
->>>>>>> teste
